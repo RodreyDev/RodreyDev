@@ -96,12 +96,11 @@ I'm passionate about technology 🤖, programming 👨‍💻, and especially we
 The goal of this project was to practice state management, CRUD operations, and UI logic in a React environment.</p></li><!-- POSTS:END -->
 
 ## Links:
-<!-- [![Website](https://img.shields.io/badge/Website-INGCapaDev-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://ingcapadev.com)
-[![Twitter](https://img.shields.io/badge/Twitter-@fta__capa-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=101010)](https://twitter.com/fta_capa)-->
+<!-- [![Website](https://img.shields.io/badge/Website-Rodrey-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://Rodrey.com)
 [![LinkedIn](https://img.shields.io/badge/%20LINKEDIN%20-%40ARODRICHACON-yellow?style=flat
 )](https://www.linkedin.com/in/arodrichacon/)
 <!-- 
-[![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.ingcapadev.com)
+[![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.rodrey.com)
 -->
 ## Contact:
 
