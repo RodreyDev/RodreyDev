@@ -97,11 +97,11 @@ The goal of this project was to practice state management, CRUD operations, and 
 
 ## Links:
 <!-- [![Website](https://img.shields.io/badge/Website-Rodrey-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=101010)](https://RodreyDev.com)
-[![LinkedIn](https://img.shields.io/badge/%20LINKEDIN%20-%40ARODRICHACON-yellow?style=flat
-)](https://www.linkedin.com/in/arodrichacon/)
+
 <!-- 
 [![Blog](https://img.shields.io/badge/Blog-INGCapaDev-F89901?style=for-the-badge&logo=astro&logoColor=white&labelColor=101010)](https://blog.rodreydev.com)
 -->
+[![LinkedIn](https://img.shields.io/badge/%20LINKEDIN%20-%40ARODRICHACON-yellow?style=flat)](https://www.linkedin.com/in/arodrichacon/)
 ## Contact:
 
 [![Email](https://img.shields.io/badge/arodrichacon@gmail.com-email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:arodrichacon@gmail.com)
